@@ -17,4 +17,5 @@ venv.bak/
 
 # Files
 *.csv
+*.xlsx
 catboost_info/
